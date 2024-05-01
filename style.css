@@ -1,0 +1,294 @@
+body {
+    margin: 0;
+    font-family: "Montserrat", sans-serif;
+}
+
+.container {
+    margin: 7px 0px;
+}
+
+.header {
+    background-color: white;
+    height: 100vh;
+    background-size: cover;
+}
+
+.header-line {
+    padding-top: 30px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.stick {
+    position: absolute;
+    top: 40px;
+    left: 465px;
+}
+
+.nav-item1 {
+    color: black;
+    text-decoration: none;
+    font-weight: medium;
+    font-size: 12px;
+
+    position: absolute;
+    top: 40px;
+    left: 490px;
+}
+
+.nav-item2 {
+    color: black;
+    text-decoration: none;
+    font-weight: medium;
+    font-size: 12px;
+
+    position: absolute;
+    top: 40px;
+    left: 595px;
+}
+
+.nav-item3 {
+    color: black;
+    text-decoration: none;
+    font-weight: medium;
+    font-size: 12px;
+
+    position: absolute;
+    top: 40px;
+    left: 650px;
+}
+
+.nav-item4 {
+    color: black;
+    text-decoration: none;
+    font-weight: medium;
+    font-size: 12px;
+
+    position: absolute;
+    top: 40px;
+    left: 695px;
+}
+
+.nav-item5 {
+    color: black;
+    text-decoration: none;
+    font-weight: medium;
+    font-size: 12px;
+
+    position: absolute;
+    top: 40px;
+    left: 755px;
+}
+
+.capybara {
+    position: absolute;
+    top: 37px;
+    left: 327px;
+}
+
+.header-logo {
+    position: absolute;
+    top: 37px;
+    left: 350px;
+}
+
+.button1 {
+    background-color: white;
+    color: black;
+    font-size: 12px;
+    font-weight: bold;
+    position: absolute;
+    top: 40px;
+    left: 875px;
+    text-decoration: none;
+}
+
+.button1:hover {
+    color: #33E1E1;
+}
+
+.btncover1 {
+    position: absolute;
+    top: 30px;
+    left: 865px;
+}
+
+.button2 {
+    color: white;
+    font-size: 12px;
+    font-weight: bold;
+    position: absolute;
+    top: 40px;
+    left: 980px;
+    text-decoration: none;
+}
+
+.btncover2 {
+    position: absolute;
+    top: 30px;
+    left: 970px;
+}
+
+.logobutton2 {
+    position: absolute;
+    top: 37.5px;
+    left: 1083px;
+}
+
+.main {
+    display: flex;
+    justify-content:center;
+}
+
+.picture {
+    position: absolute;
+    top: 120px;
+    left: 715px;
+}
+
+.text1 {
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 32px;
+    letter-spacing: -1px;
+
+    position: absolute;
+    top: 175px;
+    left: 318px;
+}
+
+.text2 {
+    color: #CEB290;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 32px;
+    letter-spacing: -1px;
+
+    position: absolute;
+    top: 215px;
+    left: 318.5px;
+}
+
+.text3 {
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 32px;
+    letter-spacing: -1px;
+
+    position: absolute;
+    top: 255px;
+    left: 319px;
+}
+
+.text4 {
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 32px;
+    letter-spacing: -1px;
+
+    position: absolute;
+    top: 295px;
+    left: 318px;
+}
+
+.mark {
+    color: black;
+    text-decoration: none;
+    font-weight: medium;
+    font-size: 12px;
+
+    position: absolute;
+    top: 355px;
+    left: 320px;
+}
+
+.btncover1-1 {
+    position: absolute;
+    top: 400px;
+    left: 505px;
+}
+
+.button1-1 {
+    background-color: white;
+    color: black;
+    text-decoration: none;
+    font-size: 12px;
+    font-weight: bold;
+    position: absolute;
+    top: 413px;
+    left: 522px;
+}
+
+.button1-1:hover {
+    color: #33E1E1;
+}
+
+.btncover2-2 {
+    position: absolute;
+    top: 400px;
+    left: 320px;
+}
+
+.button2-2 {
+    color: white;
+    font-size: 12px;
+    font-weight: bold;
+    position: absolute;
+    top: 40px;
+    left: 980px;
+    text-decoration: none;
+
+    top: 413px;
+    left: 341px;
+}
+
+.logobutton3 {
+    position: absolute;
+    top: 411px;
+    left: 449px;
+}
+
+.tiles-text {
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 22px;
+    letter-spacing: -1px;
+
+    position: absolute;
+    top: 560px;
+    left: 319px;
+}
+
+.tile1 {
+    position: absolute;
+    top: 582px;
+    left: 280px;
+}
+
+.tile2 {
+    position: absolute;
+    top: 582px;
+    left: 688px;
+}
+
+.tile3 {
+    position: absolute;
+    top: 752px;
+    left: 280px;
+}
+
+.tile4 {
+    position: absolute;
+    top: 752px;
+    left: 688px;
+}
+
+.basement {
+    display: flex;
+    justify-content: center;
+    margin-top: 250px;
+}
